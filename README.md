@@ -133,3 +133,4 @@ useOutsideClick(ref, () => setOpen(false));
 ## Future Goals
 
 See `ROADMAP.md` in this directory.
+\n## 🚀 Live Demo\n\n**https://dashboard-final-v2.vercel.app**\n\n**Login:** `admin@example.com` / `changeme123`\n
